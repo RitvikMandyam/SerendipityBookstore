@@ -1,0 +1,4 @@
+﻿  Driver.cpp
+C:\Users\ritvi\source\repos\SerendipityBookstoreSoftware\InventoryDatabase.h(66,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ritvi\source\repos\SerendipityBookstoreSoftware\InventoryDatabase.h(109,22): warning C4018: '<': signed/unsigned mismatch
+  SerendipityBookstoreSoftware.vcxproj -> C:\Users\ritvi\source\repos\SerendipityBookstoreSoftware\Debug\SerendipityBookstoreSoftware.exe

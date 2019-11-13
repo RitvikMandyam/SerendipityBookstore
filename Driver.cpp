@@ -2,14 +2,12 @@
 #include <string>
 #include <ctime>
 #include "Book.h"
+#include "InventoryDatabase.h"
 
 using namespace std;
-
-std::string getConsoleLine();
-
 int main() {
-
-	cout << book->bookDataAsString();
+	InventoryDatabase db = InventoryDatabase("inv.dat");
+	db.mainMenu();
 	system("pause");
 	return 0;
 }
