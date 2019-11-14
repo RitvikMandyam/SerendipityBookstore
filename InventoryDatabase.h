@@ -62,6 +62,10 @@ public:
 		}
 	}
 
+	Book* getBooksDatabase() {
+		return this->books;
+	}
+
 	Book* findBook(string isbn, int* index=nullptr) {
 		for (int i = 0; i < this->bookCount; i++) {
 			if (this->books[i].getIsbn() == isbn) {
@@ -145,7 +149,7 @@ public:
 			}
 			else {
 				cout << "We already have this book in our inventory, adding another copy.";
-				book->setQuantityOnHand(book->getQuantityOnHand + 1);
+				book->setQuantityOnHand(book->getQuantityOnHand() + 1);
 				return;
 			}
 			cout << "Title: ";
@@ -247,7 +251,6 @@ public:
 			cout << endl;
 			cout << "What would you like to do? (enter an option between 1 and 5): ";
 			cin >> selection;
-			cin.ignore();
 			switch (selection) {
 			case 1: {
 				lookUpBook();
