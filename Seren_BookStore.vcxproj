@@ -131,6 +131,9 @@
     <ClInclude Include="Helpers.h" />
     <ClInclude Include="InventoryDatabase.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="inv.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

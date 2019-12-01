@@ -16,7 +16,7 @@ int main() {
 }
 
 void mainMenu() {
-	InventoryDatabase db = InventoryDatabase("inv.dat");
+	InventoryDatabase db = InventoryDatabase("inv.txt");
 	CashierModule cashier = CashierModule(db);
 	//*********** when you finsih the report, please include the report module here 
 	int selection;
