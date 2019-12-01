@@ -1,103 +1,81 @@
+#pragma once
+
 #include <string>
-#include <ctime>
+#include "Date.h"
 
 using namespace std;
+
 class Book {
 private:
 	string isbn;
 	string title;
 	string author;
 	string publisher;
-	time_t dateAdded;
+	Date dateAdded;
 	unsigned int quantityOnHand;
-	float wholesaleCost;
-	float retailPrice;
+	double wholesaleCost;
+	double retailPrice;
 
 public:
-	Book(string isbn, string title, string author, string publisher, time_t dateAdded, unsigned int quantityOnHand, float wholesaleCost, float retailPrice) {
-		this->isbn = isbn;
-		this->title = title;
-		this->author = author;
-		this->publisher = publisher;
-		this->dateAdded = dateAdded;
-		this->quantityOnHand = quantityOnHand;
-		this->wholesaleCost = wholesaleCost;
-		this->retailPrice = retailPrice;
-	}
+	// Default Constructor 
+	Book();
 
-	Book() {
-		this->isbn = "";
-		this->title = "";
-		this->author = "";
-		this->publisher = "";
-		this->dateAdded = time(NULL);
-		this->quantityOnHand = 0;
-		this->wholesaleCost = 0;
-		this->retailPrice = 0;
-	}
+	// Constructor with parameter
+	Book(string isbn, string title, string author, string publisher, unsigned int quantityOnHand,
+		float wholesaleCost, float retailPrice, int day, int month, int year);
 
-	string getIsbn() {
-		return this->isbn;
-	}
-	string getTitle() {
-		return this->title;
-	}
-	string getAuthor() {
-		return this->author;
-	}
-	string getPublisher() {
-		return this->publisher;
-	}
-	time_t getDateAdded() {
-		return this->dateAdded;
-	}
-	unsigned int getQuantityOnHand() {
-		return this->quantityOnHand;
-	}
-	float getWholesaleCost() {
-		return this->wholesaleCost;
-	}
-	float getRetailPrice() {
-		return this->retailPrice;
-	}
 
-	void setIsbn(string isbn) {
-		this->isbn = isbn;
-	}
-	void setTitle(string title) {
-		this->title = title;
-	}
-	void setAuthor(string author) {
-		this->author = author;
-	}
-	void setPublisher(string publisher) {
-		this->publisher = publisher;
-	}
-	void setDateAdded(time_t dateAdded) {
-		this->dateAdded = dateAdded;
-	}
-	void setQuantityOnHand(unsigned int quantityOnHand) {
-		this->quantityOnHand = quantityOnHand;
-	}
-	void setWholesaleCost(float wholesaleCost) {
-		this->wholesaleCost = wholesaleCost;
-	}
-	void setRetailPrice(float retailPrice) {
-		this->retailPrice = retailPrice;
-	}
+	// Accessor 
+	// get ISBN 
+	string getIsbn();
+	// get Titile 
+	string getTitle();
+	// get Author 
+	string getAuthor();
+	// get publisher
+	string getPublisher();
+	// get Date Added
+	string getDateAdded();
+	// get quantity on hand 
+	unsigned int getQuantityOnHand();
+	// float whole sale cost
+	double getWholesaleCost();
+	//float get retail price 
+	double getRetailPrice();
 
-	string bookDataAsString() {
-		const time_t dateAdded = this->getDateAdded();
-		char str[26];
-		ctime_s(str, sizeof str, &dateAdded);
-		string data = this->getIsbn() + "|" +
-			this->getTitle() + "|" +
-			this->getAuthor() + "|" +
-			this->getPublisher() + "|" +
-			str + "|" +
-			to_string(this->getQuantityOnHand()) + "|" +
-			to_string(this->getWholesaleCost()) + "|" +
-			to_string(this->getRetailPrice());
-		return data;
-	}
+	// Mutator 
+	// Set ISBN 
+	void setIsbn(string isbn);
+	// Set Title
+	void setTitle(string title);
+	// Set Author
+	void setAuthor(string author);
+	// Set Publisher
+	void setPublisher(string publisher);
+	// set Date added
+	// set Day 
+	void setDay(int day);
+	// set month 
+	void setMonth(int month);
+	// set year
+	void setYear(int year);
+	// Set Quantity on Hand 
+	void setQuantityOnHand(unsigned int quantityOnHand);
+	// Set Whole Sale Cost
+	void setWholesaleCost(double wholesaleCost);
+	// Set Retail Price 
+	void setRetailPrice(double retailPrice);
+
+	// Function 
+	// convert to Data String 
+	string bookDataAsString();
+
+	// conver to Human readable
+	string bookDataAsHumanReadableString();
+
+	//Get Fields
+	static string* getFields();
+
+	// Get Human Readable Field 
+	static string* getHumanReadableFields();
 };
