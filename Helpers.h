@@ -21,8 +21,8 @@ namespace Helpers {
 	std::string getConsoleLine();
 
 	// Function to validate input and correct it - int
-	void correctingValidInput(int &userInput);
+	void correctingValidInput(int& userInput);
 
 	// Function to validate input and correct it - double
-	void correctingValidInput(double &userInput);
+	void correctingValidInput(double& userInput);
 }

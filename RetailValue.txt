@@ -1,0 +1,39 @@
+Welcome to List By Quantity. 
+ List By Quantity:  
+  |  ISBN :   Quantity on Hand : 0
+Bighead  |  ISBN : 978-1-891830-56-3  Quantity on Hand : 20.95
+Top Shelf #7: On Parade Edited  |  ISBN : 978-1-891830-04-4  Quantity on Hand : 20.65
+Magic Boy and the Robot Elf  |  ISBN : 978-1-891830-33-4  Quantity on Hand : 20.56
+The Barefoot Serpent (softcover)  |  ISBN : 978-1-891830-37-2  Quantity on Hand : 20.41
+Lone Racer  |  ISBN : 978-1-891830-69-3  Quantity on Hand : 20.31
+Speechless  |  ISBN : 978-1-891830-14-3  Quantity on Hand : 20.24
+Beach Safari  |  ISBN : 978-1-891830-40-2  Quantity on Hand : 20.2
+Top Shelf #8: Under the Big Top  |  ISBN : 978-1-891830-11-2  Quantity on Hand : 19.69
+Unlikely  |  ISBN : 978-1-891830-41-9  Quantity on Hand : 19.64
+From Hell  |  ISBN : 978-0-9585783-4-9  Quantity on Hand : 19.54
+Hutch Owen (Vol 1): The Collected  |  ISBN : 978-1-891830-17-4  Quantity on Hand : 19.47
+The Mirror of Love  |  ISBN : 978-1-891830-45-7  Quantity on Hand : 19.45
+Box Office Poison  |  ISBN : 978-1-891830-19-8  Quantity on Hand : 19.09
+Top Shelf #9: Asks the Big Questions Edited  |  ISBN : 978-1-891830-32-7  Quantity on Hand : 18.6
+The Ticking  |  ISBN : 978-1-891830-70-9  Quantity on Hand : 18.4
+Voice of the Fire  |  ISBN : 978-1-60309-035-3  Quantity on Hand : 18.39
+AEIOU or Any Easy Intimacy  |  ISBN : 978-1-891830-71-6  Quantity on Hand : 18.37
+Monkey vs. Robot (Vol 2): Crystal of Power  |  ISBN : 978-1-891830-36-5  Quantity on Hand : 18.33
+Death Chocolate  |  ISBN : 978-1-891830-92-1  Quantity on Hand : 17.96
+The King   |  ISBN : 978-1-891830-65-5  Quantity on Hand : 17.88
+Less Than Heroes  |  ISBN : 978-1-891830-51-8  Quantity on Hand : 16.61
+Hey Mister Vol 1  |  ISBN : 978-1-891830-02-0  Quantity on Hand : 16.5
+Clumsy  |  ISBN : 978-0-9713597-6-5  Quantity on Hand : 16.02
+Spiral-Bound  |  ISBN : 978-1-891830-50-1  Quantity on Hand : 15.7
+Will You Still Love Me If I Wet the Bed  |  ISBN : 978-1-891830-72-3  Quantity on Hand : 15.7
+Pinky & Stinky  |  ISBN : 978-1-891830-29-7  Quantity on Hand : 14.93
+Every Girl is the End of the World for Me  |  ISBN : 978-1-891830-77-8  Quantity on Hand : 14.25
+Tricked  |  ISBN : 978-1-891830-73-0  Quantity on Hand : 14.15
+Hey Mister Vol 2  |  ISBN : 978-1-891830-25-9  Quantity on Hand : 14.07
+Dear Julia  |  ISBN : 978-1-891830-12-9  Quantity on Hand : 12.91
+Hutch Owen (Vol 2): Unmarketable  |  ISBN : 978-1-891830-55-6  Quantity on Hand : 12.56
+merican Elf 1999  |  ISBN : 978-1-60309-2395M  Quantity on Hand : 12.53
+Three Fingers  |  ISBN : 978-1-891830-31-0  Quantity on Hand : 12.12
+Van Helsing's Night Off  |  ISBN : 978-1-891830-38-9  Quantity on Hand : 11.91
+Cry Yourself to Sleep  |  ISBN : 978-1-891830-81-5  Quantity on Hand : 11.6
+Mosquito  |  ISBN : 978-1-891830-68-6  Quantity on Hand : 11.36

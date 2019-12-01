@@ -1,0 +1,39 @@
+Welcome to List By Age. 
+ List By Age:  
+Title:    |  ISBN :   Quantity on Hand : -842150451/-842150451/-842150451
+Title:  Box Office Poison  |  ISBN : 978-1-891830-19-8  Quantity on Hand : 13/1/2019
+Title:  Will You Still Love Me If I Wet the Bed  |  ISBN : 978-1-891830-72-3  Quantity on Hand : 8/12/2019
+Title:  Pinky & Stinky  |  ISBN : 978-1-891830-29-7  Quantity on Hand : 24/8/2018
+Title:  Spiral-Bound  |  ISBN : 978-1-891830-50-1  Quantity on Hand : 5/9/2018
+Title:  Bighead  |  ISBN : 978-1-891830-56-3  Quantity on Hand : 1/1/2017
+Title:  Three Fingers  |  ISBN : 978-1-891830-31-0  Quantity on Hand : 27/2/2017
+Title:  Top Shelf #8: Under the Big Top  |  ISBN : 978-1-891830-11-2  Quantity on Hand : 3/8/2016
+Title:  Less Than Heroes  |  ISBN : 978-1-891830-51-8  Quantity on Hand : 3/8/2015
+Title:  Lone Racer  |  ISBN : 978-1-891830-69-3  Quantity on Hand : 1/2/2014
+Title:  The King   |  ISBN : 978-1-891830-65-5  Quantity on Hand : 19/11/2014
+Title:  Every Girl is the End of the World for Me  |  ISBN : 978-1-891830-77-8  Quantity on Hand : 16/2/2013
+Title:  Top Shelf #7: On Parade Edited  |  ISBN : 978-1-891830-04-4  Quantity on Hand : 20/3/2013
+Title:  Hey Mister Vol 2  |  ISBN : 978-1-891830-25-9  Quantity on Hand : 13/9/2012
+Title:  Van Helsing's Night Off  |  ISBN : 978-1-891830-38-9  Quantity on Hand : 29/10/2012
+Title:  Dear Julia  |  ISBN : 978-1-891830-12-9  Quantity on Hand : 14/11/2008
+Title:  Cry Yourself to Sleep  |  ISBN : 978-1-891830-81-5  Quantity on Hand : 13/3/2007
+Title:  Speechless  |  ISBN : 978-1-891830-14-3  Quantity on Hand : 29/6/2006
+Title:  The Ticking  |  ISBN : 978-1-891830-70-9  Quantity on Hand : 16/2/2005
+Title:  Voice of the Fire  |  ISBN : 978-1-60309-035-3  Quantity on Hand : 1/5/2005
+Title:  AEIOU or Any Easy Intimacy  |  ISBN : 978-1-891830-71-6  Quantity on Hand : 30/12/2004
+Title:  Unlikely  |  ISBN : 978-1-891830-41-9  Quantity on Hand : 1/5/2003
+Title:  Top Shelf #9: Asks the Big Questions Edited  |  ISBN : 978-1-891830-32-7  Quantity on Hand : 6/2/2002
+Title:  Monkey vs. Robot (Vol 2): Crystal of Power  |  ISBN : 978-1-891830-36-5  Quantity on Hand : 7/3/2002
+Title:  The Mirror of Love  |  ISBN : 978-1-891830-45-7  Quantity on Hand : 6/8/2002
+Title:  Hey Mister Vol 1  |  ISBN : 978-1-891830-02-0  Quantity on Hand : 28/5/2001
+Title:  From Hell  |  ISBN : 978-0-9585783-4-9  Quantity on Hand : 10/11/2000
+Title:  Tricked  |  ISBN : 978-1-891830-73-0  Quantity on Hand : 18/3/1999
+Title:  Death Chocolate  |  ISBN : 978-1-891830-92-1  Quantity on Hand : 8/5/1999
+Title:  Hutch Owen (Vol 1): The Collected  |  ISBN : 978-1-891830-17-4  Quantity on Hand : 29/10/1999
+Title:  Hutch Owen (Vol 2): Unmarketable  |  ISBN : 978-1-891830-55-6  Quantity on Hand : 24/8/1997
+Title:  Mosquito  |  ISBN : 978-1-891830-68-6  Quantity on Hand : 28/12/1997
+Title:  merican Elf 1999  |  ISBN : 978-1-60309-2395M  Quantity on Hand : 22/2/1994
+Title:  Beach Safari  |  ISBN : 978-1-891830-40-2  Quantity on Hand : 16/5/1994
+Title:  Clumsy  |  ISBN : 978-0-9713597-6-5  Quantity on Hand : 6/10/1994
+Title:  The Barefoot Serpent (softcover)  |  ISBN : 978-1-891830-37-2  Quantity on Hand : 29/9/1993
+Title:  Magic Boy and the Robot Elf  |  ISBN : 978-1-891830-33-4  Quantity on Hand : 12/11/1991

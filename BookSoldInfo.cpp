@@ -12,7 +12,7 @@ BookSoldInfo::BookSoldInfo()
 }
 
 // Constructor which takes parameter
-BookSoldInfo::BookSoldInfo(Book *bookSold, double saleTax, double totalSalePrice, int quantitySale, int quanityRemaining, int daySold
+BookSoldInfo::BookSoldInfo(Book* bookSold, double saleTax, double totalSalePrice, int quantitySale, int quanityRemaining, int daySold
 	, int monthSold, int yearSold) {
 	this->bookSold = bookSold;
 	this->saleTax = saleTax;
@@ -32,4 +32,3 @@ int BookSoldInfo::getQuantitySale() { return quantitySale; };
 double BookSoldInfo::getSaleTax() { return saleTax; };
 double BookSoldInfo::getTotalSalePrice() { return totalSalePrice; };
 string BookSoldInfo::getDateSold() { return dateSold.toString(); };
-

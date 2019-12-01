@@ -4,7 +4,7 @@
 #include "InventoryDatabase.h"
 #include "CashierModule.h"
 #include "Helpers.h"
-
+#include "ReportModule.h"
 using namespace std;
 
 void mainMenu();
@@ -18,6 +18,7 @@ int main() {
 void mainMenu() {
 	InventoryDatabase db = InventoryDatabase("inv.txt");
 	CashierModule cashier = CashierModule(db);
+	ReportModule Report = ReportModule(db);
 	//*********** when you finsih the report, please include the report module here 
 	int selection;
 	std::string answer;
@@ -35,6 +36,10 @@ void mainMenu() {
 			break;
 		case 2:
 			db.mainMenu();
+			break;
+		case 3:
+
+			Report.ReportMainMenu(db);
 			break;
 			//*********** when you finish the report, please include the report module here as case 3
 		}
