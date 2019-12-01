@@ -2,7 +2,7 @@
 #include "Helpers.h"
 
 //Default Constructor 
-CashierModule::CashierModule(InventoryDatabase & currentInventory)
+CashierModule::CashierModule(InventoryDatabase& currentInventory)
 	: currentInventory(currentInventory) {
 };
 
@@ -71,7 +71,7 @@ void CashierModule::printSaleBookInfo(std::string title, std::string isbn, std::
 //Function to add sold Book To Temp Array
 void CashierModule::addSoldBookdToArray(BookSoldInfo bookSoldObject) {
 	// Declare new temp array
-	BookSoldInfo *tempArray = new BookSoldInfo[size + 1];
+	BookSoldInfo* tempArray = new BookSoldInfo[size + 1];
 
 	// Copy old array to new temp array 
 	for (int i = 0; i < size; i++) {
@@ -138,7 +138,7 @@ void CashierModule::showCustomeReceiptScreen(int startingPoint, double saleTax) 
 	double totalPrice = 0.0;
 
 	for (int i = startingPoint; i < size; i++) {
-		Book *tempBook = bookSoldArray[i].getBookObject();
+		Book* tempBook = bookSoldArray[i].getBookObject();
 
 		// Use Overload Function to show each book sold
 		showField(tempBook->getTitle(), tempBook->getIsbn(), tempBook->getRetailPrice(),
@@ -174,10 +174,10 @@ void CashierModule::cashierFunction() {
 
 	// Start cashier Function
 	// Get the current inventory
-	Book * currentBookArray = currentInventory.getBooksDatabase();
+	Book* currentBookArray = currentInventory.getBooksDatabase();
 
 	// Create temp Book Sold Array 
-	BookSoldInfo * tempBookSoldArray = new BookSoldInfo[1];
+	BookSoldInfo* tempBookSoldArray = new BookSoldInfo[1];
 
 	// Asking Customer
 	char confirm;
@@ -196,7 +196,7 @@ void CashierModule::cashierFunction() {
 
 		// Checking if the book exist, if not
 		// ask restart the loop 
-		Book * bookSold = currentInventory.findBook(isbn);
+		Book* bookSold = currentInventory.findBook(isbn);
 		if (bookSold == nullptr) continue;
 
 		// Print out the information
@@ -278,11 +278,10 @@ void CashierModule::showCashierRecord() {
 	// Loop through sold book array and show 
 	// each sold item 
 	for (int i = 0; i < size; i++) {
-		Book *tempBook = bookSoldArray[i].getBookObject();
+		Book* tempBook = bookSoldArray[i].getBookObject();
 
 		// Use Overload Function to show each book sold
 		showField(tempBook->getTitle(), tempBook->getIsbn(), tempBook->getRetailPrice(),
 			bookSoldArray[i].getQuantitySale(), bookSoldArray[i].getDateSold());
 	}
 }
-

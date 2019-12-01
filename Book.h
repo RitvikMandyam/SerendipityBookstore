@@ -42,6 +42,9 @@ public:
 	double getWholesaleCost();
 	//float get retail price 
 	double getRetailPrice();
+	int getDay();
+	int getMonth();
+	int getYear();
 
 	// Mutator 
 	// Set ISBN 

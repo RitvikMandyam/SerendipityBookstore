@@ -1,20 +1,21 @@
 #pragma once
 
+
 #include <iomanip>
 #include "BookSoldInfo.h"
 #include "InventoryDatabase.h"
 
 class CashierModule {
 private:
-	InventoryDatabase &currentInventory;
-	BookSoldInfo * bookSoldArray;
+	InventoryDatabase& currentInventory;
+	BookSoldInfo* bookSoldArray;
 	int size;
 public:
 	// Default constructor
 	CashierModule();
 
 	// Constructor which take parameter 
-	CashierModule(InventoryDatabase & currentInventory);
+	CashierModule(InventoryDatabase& currentInventory);
 
 	// Destructor
 	~CashierModule();
