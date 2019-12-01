@@ -79,7 +79,7 @@ Book* Helpers::installDataToInventory(string fileName, int fileSize) {
 
 			// Construct BookInfo Object
 
-			Book *tempBook = new Book(arrayString[0], arrayString[1], arrayString[2], arrayString[3],
+			Book* tempBook = new Book(arrayString[0], arrayString[1], arrayString[2], arrayString[3],
 				quantity, wholesale, retailPrice, day, month, year);
 
 
@@ -101,7 +101,7 @@ std::string Helpers::getConsoleLine()
 }
 
 // Validate input and correct it - int 
-void Helpers::correctingValidInput(int &userInput) {
+void Helpers::correctingValidInput(int& userInput) {
 	bool checking;
 	do {
 		std::cin >> userInput;
@@ -117,7 +117,7 @@ void Helpers::correctingValidInput(int &userInput) {
 	} while (checking == false);
 }
 
-void Helpers::correctingValidInput(double &userInput) {
+void Helpers::correctingValidInput(double& userInput) {
 	bool checking;
 	do {
 		std::cin >> userInput;

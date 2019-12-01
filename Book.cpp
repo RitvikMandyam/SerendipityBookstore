@@ -35,6 +35,9 @@ string Book::getDateAdded() { return this->dateAdded.toString(); }
 unsigned int Book::getQuantityOnHand() { return this->quantityOnHand; }
 double Book::getWholesaleCost() { return this->wholesaleCost; }
 double Book::getRetailPrice() { return this->retailPrice; }
+int Book::getDay() { return this->dateAdded.getDay(); }
+int Book::getMonth() { return this->dateAdded.getMonth(); }
+int Book::getYear() { return this->dateAdded.getYear(); }
 //Mutator 
 void Book::setIsbn(string isbn) { this->isbn = isbn; }
 void Book::setTitle(string title) { this->title = title; }

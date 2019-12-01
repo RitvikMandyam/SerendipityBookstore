@@ -1,0 +1,39 @@
+Welcome to Whole Sale Value report. 
+ Whole Sale Value report: 
+ISBN :978-1-891830-71-6 |  Title :AEIOU or Any Easy Intimacy |  WholeSale Cost : $18.37
+ISBN :978-1-60309-2395M |  Title :merican Elf 1999 |  WholeSale Cost : $12.53
+ISBN :978-1-891830-37-2 |  Title :The Barefoot Serpent (softcover) |  WholeSale Cost : $20.41
+ISBN :978-1-891830-40-2 |  Title :Beach Safari |  WholeSale Cost : $20.2
+ISBN :978-1-891830-56-3 |  Title :Bighead |  WholeSale Cost : $20.95
+ISBN :978-1-891830-19-8 |  Title :Box Office Poison |  WholeSale Cost : $19.09
+ISBN :978-0-9713597-6-5 |  Title :Clumsy |  WholeSale Cost : $16.02
+ISBN :978-1-891830-81-5 |  Title :Cry Yourself to Sleep |  WholeSale Cost : $11.6
+ISBN :978-1-891830-12-9 |  Title :Dear Julia |  WholeSale Cost : $12.91
+ISBN :978-1-891830-92-1 |  Title :Death Chocolate |  WholeSale Cost : $17.96
+ISBN :978-1-891830-77-8 |  Title :Every Girl is the End of the World for Me |  WholeSale Cost : $14.25
+ISBN :978-0-9585783-4-9 |  Title :From Hell |  WholeSale Cost : $19.54
+ISBN :978-1-891830-02-0 |  Title :Hey Mister Vol 1 |  WholeSale Cost : $16.5
+ISBN :978-1-891830-25-9 |  Title :Hey Mister Vol 2 |  WholeSale Cost : $14.07
+ISBN :978-1-891830-17-4 |  Title :Hutch Owen (Vol 1): The Collected |  WholeSale Cost : $19.47
+ISBN :978-1-891830-55-6 |  Title :Hutch Owen (Vol 2): Unmarketable |  WholeSale Cost : $12.56
+ISBN :978-1-891830-65-5 |  Title :The King  |  WholeSale Cost : $17.88
+ISBN :978-1-891830-51-8 |  Title :Less Than Heroes |  WholeSale Cost : $16.61
+ISBN :978-1-891830-69-3 |  Title :Lone Racer |  WholeSale Cost : $20.31
+ISBN :978-1-891830-33-4 |  Title :Magic Boy and the Robot Elf |  WholeSale Cost : $20.56
+ISBN :978-1-891830-45-7 |  Title :The Mirror of Love |  WholeSale Cost : $19.45
+ISBN :978-1-891830-36-5 |  Title :Monkey vs. Robot (Vol 2): Crystal of Power |  WholeSale Cost : $18.33
+ISBN :978-1-891830-68-6 |  Title :Mosquito |  WholeSale Cost : $11.36
+ISBN :978-1-891830-29-7 |  Title :Pinky & Stinky |  WholeSale Cost : $14.93
+ISBN :978-1-891830-14-3 |  Title :Speechless |  WholeSale Cost : $20.24
+ISBN :978-1-891830-50-1 |  Title :Spiral-Bound |  WholeSale Cost : $15.7
+ISBN :978-1-891830-31-0 |  Title :Three Fingers |  WholeSale Cost : $12.12
+ISBN :978-1-891830-70-9 |  Title :The Ticking |  WholeSale Cost : $18.4
+ISBN :978-1-891830-04-4 |  Title :Top Shelf #7: On Parade Edited |  WholeSale Cost : $20.65
+ISBN :978-1-891830-11-2 |  Title :Top Shelf #8: Under the Big Top |  WholeSale Cost : $19.69
+ISBN :978-1-891830-32-7 |  Title :Top Shelf #9: Asks the Big Questions Edited |  WholeSale Cost : $18.6
+ISBN :978-1-891830-73-0 |  Title :Tricked |  WholeSale Cost : $14.15
+ISBN :978-1-891830-41-9 |  Title :Unlikely |  WholeSale Cost : $19.64
+ISBN :978-1-891830-38-9 |  Title :Van Helsing's Night Off |  WholeSale Cost : $11.91
+ISBN :978-1-60309-035-3 |  Title :Voice of the Fire |  WholeSale Cost : $18.39
+ISBN :978-1-891830-72-3 |  Title :Will You Still Love Me If I Wet the Bed |  WholeSale Cost : $15.7
+ Total Whole Sale of store : $ 277879 Dollars
